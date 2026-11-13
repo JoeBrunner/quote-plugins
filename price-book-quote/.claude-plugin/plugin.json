@@ -1,0 +1,9 @@
+{
+  "name": "price-book-quote",
+  "displayName": "Price Book Quote",
+  "version": "0.1.0",
+  "description": "Good, Better, Best quotes for flat-rate service trades (plumbing, HVAC, electrical and more) from a tech's notes, photos or voice notes, priced only from your own price book, as a branded page you can save as a PDF and send.",
+  "author": { "name": "Breakaway Ops" },
+  "license": "MIT",
+  "keywords": ["plumbing", "hvac", "electrical", "quotes", "estimates", "flat rate", "price book", "good better best"]
+}

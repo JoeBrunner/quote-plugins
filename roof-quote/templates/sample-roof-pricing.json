@@ -1,0 +1,81 @@
+{
+  "sample": true,
+  "company": {
+    "name": "Sunline Roofing Co.",
+    "phone": "(813) 555-0142",
+    "email": "office@sunline-roofing.example",
+    "website": "sunline-roofing.example",
+    "license": "CCC0000000",
+    "address": "Tampa, FL",
+    "color": "#b4461f",
+    "logo": ""
+  },
+  "title": "Roof replacement",
+  "intro": "Here are three ways to do your new roof, all installed by our own crew with the old roof torn off and hauled away.",
+  "options": [
+    {
+      "name": "Good",
+      "headline": "Architectural shingles",
+      "price_per_square": 425,
+      "warranty": "Manufacturer's limited lifetime shingle warranty, 5 years on our workmanship.",
+      "points": [
+        "30-year-class architectural shingles",
+        "Synthetic underlayment over the whole roof",
+        "New drip edge, starter strip and ridge cap",
+        "New pipe boots and vents"
+      ]
+    },
+    {
+      "name": "Better",
+      "headline": "Upgraded shingle system",
+      "price_per_square": 495,
+      "recommended": true,
+      "warranty": "Manufacturer's enhanced system warranty, 10 years on our workmanship.",
+      "points": [
+        "Everything in Good",
+        "Peel-and-stick secondary water barrier (helps with Florida insurance)",
+        "Ice-and-water shield in valleys and at every wall",
+        "Ridge vent for better attic airflow"
+      ]
+    },
+    {
+      "name": "Best",
+      "headline": "Standing seam metal",
+      "price_per_square": 1150,
+      "warranty": "Manufacturer's 40-year paint finish warranty, 15 years on our workmanship.",
+      "points": [
+        "24-gauge standing seam metal panels",
+        "High-temperature peel-and-stick underlayment",
+        "Hidden fasteners, built for high-wind zones",
+        "Lasts two to three times as long as shingles"
+      ]
+    }
+  ],
+  "low_slope": { "product": "Modified bitumen flat-roof system", "price_per_square": 650 },
+  "tear_off_per_square": 65,
+  "steep": [
+    { "from_pitch": 7, "per_square": 35 },
+    { "from_pitch": 10, "per_square": 70 }
+  ],
+  "stories_extra": { "2": 20, "3": 40 },
+  "fixed": [
+    { "item": "Permit and inspections", "price": 450 },
+    { "item": "Dumpster, magnet sweep and cleanup", "price": 425 }
+  ],
+  "allowances": [
+    { "item": "Plywood replacement", "unit": "sheet", "unit_price": 85, "note": "We'll show you any rotten wood before replacing it." }
+  ],
+  "waste_percent": "auto",
+  "size_cushion_percent": 10,
+  "minimum_job": 3500,
+  "tax_percent": 0,
+  "deposit_percent": 30,
+  "valid_days": 30,
+  "notes": [
+    "Work usually takes one to two days once materials arrive."
+  ],
+  "terms": [
+    "30% deposit to get on the schedule, the rest when the job passes final inspection.",
+    "Prices hold for 30 days."
+  ]
+}

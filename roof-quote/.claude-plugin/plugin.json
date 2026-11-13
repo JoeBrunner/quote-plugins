@@ -1,0 +1,9 @@
+{
+  "name": "roof-quote",
+  "displayName": "Roof Quote",
+  "version": "0.1.0",
+  "description": "Roof replacement quotes from a street address: Google's satellite roof measurements (or your measurement report), priced from your own price sheet, as a branded Good, Better, Best quote page you can save as a PDF and send.",
+  "author": { "name": "Breakaway Ops" },
+  "license": "MIT",
+  "keywords": ["roofing", "quotes", "estimates", "contractors", "roof measurement", "good better best"]
+}

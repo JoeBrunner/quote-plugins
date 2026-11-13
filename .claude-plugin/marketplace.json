@@ -1,0 +1,17 @@
+{
+  "name": "quote-plugins",
+  "owner": { "name": "Breakaway Ops" },
+  "description": "Quotes in minutes for contractors: roofing from a street address, and flat-rate service trades from your own price book.",
+  "plugins": [
+    {
+      "name": "roof-quote",
+      "source": "./roof-quote",
+      "description": "Roof replacement quotes from a street address: satellite roof measurements, priced from your own sheet, Good, Better, Best."
+    },
+    {
+      "name": "price-book-quote",
+      "source": "./price-book-quote",
+      "description": "Good, Better, Best quotes for plumbing, HVAC, electrical and other flat-rate trades, priced only from your own price book."
+    }
+  ]
+}

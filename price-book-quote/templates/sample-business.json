@@ -1,0 +1,23 @@
+{
+  "sample": true,
+  "company": {
+    "name": "Northpoint Plumbing & Air",
+    "phone": "(727) 555-0190",
+    "email": "service@northpoint.example",
+    "website": "northpoint.example",
+    "license": "CFC0000000",
+    "address": "Clearwater, FL",
+    "color": "#1d4ed8",
+    "logo": ""
+  },
+  "trade": "plumbing and HVAC",
+  "tax_percent": 0,
+  "deposit_percent": 0,
+  "valid_days": 14,
+  "always_add": [],
+  "terms": [
+    "Prices are flat rate: the price you see is the price you pay, however long the job takes.",
+    "Payment is due when the work is done.",
+    "Prices hold for 14 days."
+  ]
+}

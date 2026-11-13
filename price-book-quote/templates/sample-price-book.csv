@@ -1,0 +1,39 @@
+code,item,category,unit,price,description
+DIAG,Diagnostic visit,Service,each,89,"Find the problem, written findings before any work"
+TRIP-AH,After-hours service call,Service,each,149,"Nights, weekends and holidays"
+WH-FLUSH,Water heater flush and anode check,Water heater,each,189,Tank flush and anode rod inspection
+WH-ELEM,Replace water heater element and thermostat,Water heater,each,349,Electric tank heaters
+WH-50G,"50-gal gas water heater, installed",Water heater,each,2450,"Standard 6-year tank, new flex lines, haul-away"
+WH-50E,"50-gal electric water heater, installed",Water heater,each,2150,"Standard 6-year tank, new flex lines, haul-away"
+WH-50G-12,"50-gal gas water heater, 12-year, installed",Water heater,each,3150,"Upgraded 12-year tank, new flex lines, haul-away"
+WH-TANKLESS,"Tankless gas water heater, installed",Water heater,each,4850,"Whole-home unit, venting and gas line sizing included"
+WH-PAN,Drain pan and leak sensor,Water heater,each,165,Catches leaks and alerts your phone
+WH-EXP,Thermal expansion tank,Water heater,each,245,Required by code on closed systems
+DR-KITCHEN,Clear kitchen drain,Drains,each,225,Cable from the sink
+DR-MAIN,Clear main sewer line from cleanout,Drains,each,395,Cable from an accessible cleanout
+DR-CAM,Sewer camera inspection,Drains,each,295,Recorded video of the line
+DR-JET,Hydro-jet main line,Drains,each,695,High-pressure cleaning of the whole line
+TOI-REBUILD,Toilet tank rebuild,Toilets,each,215,"Fill valve, flapper and supply line"
+TOI-NEW,"Standard toilet, installed",Toilets,each,695,"Elongated, comfort height, haul-away"
+TOI-PREM,"Premium toilet, installed",Toilets,each,1095,"Skirted, soft-close, haul-away"
+FAU-KITCHEN,"Kitchen faucet, installed",Fixtures,each,425,Customer's or our standard faucet
+GD-NEW,"1/2 hp garbage disposal, installed",Fixtures,each,445,
+SHUT-MAIN,Replace main water shutoff valve,Valves,each,525,Full-port ball valve
+PRV,Pressure reducing valve,Valves,each,695,Protects fixtures from high street pressure
+LEAK-DET,Electronic leak detection,Leaks,each,425,Locate a hidden leak without opening walls
+REPIPE-PEX,"Whole-home PEX repipe, per fixture",Repipe,fixture,950,"All supply lines, drywall patch not included"
+HVAC-TUNE,AC tune-up,HVAC,each,129,"Coil check, drain line flush, refrigerant check"
+HVAC-CAP,Replace run capacitor,HVAC,each,265,
+HVAC-CONT,Replace contactor,HVAC,each,295,
+HVAC-DRAIN,Clear condensate drain line,HVAC,each,175,
+HVAC-FMOTOR,Replace condenser fan motor,HVAC,each,695,
+HVAC-LEAK,Refrigerant leak search and seal,HVAC,each,895,
+HVAC-3T-14,"3-ton 14.3 SEER2 system, installed",HVAC,each,8900,"Condenser, air handler, pad, line set flush, permit"
+HVAC-3T-16,"3-ton 16 SEER2 system, installed",HVAC,each,10900,"Two-stage, quieter, lower power bills"
+HVAC-3T-20,"3-ton variable-speed system, installed",HVAC,each,14900,"Variable speed, best comfort and humidity control"
+HVAC-THERMO,Smart thermostat,HVAC,each,345,
+EL-OUTLET,Replace outlet or switch,Electrical,each,145,
+EL-GFCI,Install GFCI outlet,Electrical,each,195,
+EL-SURGE,Whole-home surge protector,Electrical,each,495,
+EL-PANEL200,200-amp panel replacement,Electrical,each,3950,"Permit and inspection included"
+PLAN-YR,Comfort club membership (1 year),Plans,each,199,"Two tune-ups, priority service, 10% off repairs"
